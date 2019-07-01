@@ -4,6 +4,7 @@ Python program for object detection. The program is capable of predicting 10 dif
 
 # Dataset
 The dataset used to train the model is CIFAR-10. The CIFAR-10 data consists of 60,000 32x32 color images in 10 classes, with 6000 images per class. There are 50,000 training images and 10,000 test images.
+
 The label classes in the dataset are:
 
     airplane 
