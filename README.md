@@ -17,4 +17,4 @@ The label classes in the dataset are:
     ship 
     truck
 
-After training for 300 epochs on i was ab
+After training for 300 epochs on Google Colab, I was able to achieve 91.5% accuracy. For training for full 500 epochs more accurate results can be obtained.
